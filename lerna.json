@@ -2,7 +2,7 @@
   "changelog": {
     "labels": {
       "enhancement": ":rocket: Enhancement",
-      "bug": ":bug: Bug Fix",
+      "tag: bugfix": ":bug: Bug Fix",
       "doc": "Refine Doc",
       "feat": "New Feature"
     },
