@@ -1,4 +1,13 @@
 {
+  "changelog": {
+    "labels": {
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "doc": "Refine Doc",
+      "feat": "New Feature"
+    },
+    "cacheDir": ".changelog"
+  },
   "lerna": "2.7.0",
   "packages": [
     "packages/*"
