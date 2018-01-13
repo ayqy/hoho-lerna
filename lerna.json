@@ -1,5 +1,6 @@
 {
   "changelog": {
+    "repo": "ayqy/hoho-lerna",
     "labels": {
       "enhancement": ":rocket: Enhancement",
       "tag: bugfix": ":bug: Bug Fix",
